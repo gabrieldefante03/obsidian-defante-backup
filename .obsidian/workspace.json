@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9eff133f84a4262a",
+        "id": "cb247e7f345389e8",
         "type": "tabs",
         "children": [
           {
-            "id": "c4ac4b0063a93406",
+            "id": "1a4a0bd3162a8077",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -195,11 +195,12 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "c4ac4b0063a93406",
+  "active": "3629bb7bdd9beab4",
   "lastOpenFiles": [
+    "taligado.md",
+    "teste3.md",
     "teste.md",
     "teste2.md",
-    "teste3.md",
     "Bem-vindo.md",
     "keys-server/ssh-key-2026-08-05.key",
     "keys-server/ssh-key-2026-08-05.key.pub",
