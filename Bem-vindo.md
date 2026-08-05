@@ -2,4 +2,12 @@ Este é o seu novo *Cofre*.
 
 Anote algo, [[crie um link]], ou tente [o Importer](https://help.obsidian.md/Plugins/Importer)!
 
-Quando estiver pronto, exclua esta nota e monte o cofre do seu jeito.
+Quando estiver pronto, exclua esta nota e monte o cofre do seu jeito.d sa
+d 
+dsa 
+s a
+sad
+sda
+s
+s sa
+ 
