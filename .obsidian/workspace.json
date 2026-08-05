@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "cb247e7f345389e8",
+        "id": "30a54624f4819758",
         "type": "tabs",
         "children": [
           {
-            "id": "1a4a0bd3162a8077",
+            "id": "890bf7da0ac04143",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -181,7 +181,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,12 +196,12 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "3629bb7bdd9beab4",
+  "active": "890bf7da0ac04143",
   "lastOpenFiles": [
     "taligado.md",
-    "teste3.md",
-    "teste.md",
     "teste2.md",
+    "teste.md",
+    "teste3.md",
     "Bem-vindo.md",
     "keys-server/ssh-key-2026-08-05.key",
     "keys-server/ssh-key-2026-08-05.key.pub",
