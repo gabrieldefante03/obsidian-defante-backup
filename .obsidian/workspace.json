@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e54eff4f0847ff49",
+        "id": "049a91cbd8316503",
         "type": "tabs",
         "children": [
           {
-            "id": "369782dbbb4a885a",
+            "id": "de56048a31ae441f",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -196,8 +196,11 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "0b6dceeed4407071",
+  "active": "de56048a31ae441f",
   "lastOpenFiles": [
+    "Senhas/Senhas.md",
+    "Senhas/Sem título",
+    "Senhas",
     "Sem título.md",
     "Bem-vindo.md",
     "taligado.md",
