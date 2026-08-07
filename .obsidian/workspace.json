@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0e676a59c3bf3630",
+        "id": "e54eff4f0847ff49",
         "type": "tabs",
         "children": [
           {
-            "id": "cd9235e5dece1f79",
+            "id": "369782dbbb4a885a",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -196,13 +196,14 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "cd9235e5dece1f79",
+  "active": "0b6dceeed4407071",
   "lastOpenFiles": [
+    "Sem título.md",
+    "Bem-vindo.md",
     "taligado.md",
     "teste2.md",
     "teste.md",
     "teste3.md",
-    "Bem-vindo.md",
     "keys-server/ssh-key-2026-08-05.key",
     "keys-server/ssh-key-2026-08-05.key.pub",
     "keys-server"
