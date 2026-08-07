@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "30a54624f4819758",
+        "id": "0e676a59c3bf3630",
         "type": "tabs",
         "children": [
           {
-            "id": "890bf7da0ac04143",
+            "id": "cd9235e5dece1f79",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -196,7 +196,7 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "890bf7da0ac04143",
+  "active": "cd9235e5dece1f79",
   "lastOpenFiles": [
     "taligado.md",
     "teste2.md",
