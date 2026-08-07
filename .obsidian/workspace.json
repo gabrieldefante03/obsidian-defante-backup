@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "049a91cbd8316503",
+        "id": "ee7d73803318cd6e",
         "type": "tabs",
         "children": [
           {
-            "id": "de56048a31ae441f",
+            "id": "3ec8a3904be9b436",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Senhas/Servidor Postgree.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "Servidor Postgree"
             }
           }
         ]
@@ -196,9 +200,10 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "de56048a31ae441f",
+  "active": "3ec8a3904be9b436",
   "lastOpenFiles": [
     "Senhas/Senhas.md",
+    "Senhas/Servidor Postgree.md",
     "Senhas/Sem título",
     "Senhas",
     "Sem título.md",
